@@ -1,3 +1,6 @@
 [submodule "plugin-test"]
 	path = plugin-test
 	url = https://github.com/andre-cintra/plugin-test
+[submodule "template-test"]
+	path = template-test
+	url = https://github.com/andre-cintra/template-test
